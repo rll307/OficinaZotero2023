@@ -407,7 +407,7 @@ class: animated, fadeIn, middle
 3. Clicar na *engrenagem*
 4. Clicar em *Install add on from file*
 
-```{r fig022 ,echo=FALSE,fig.align='center'}
+```{r fig022 ,echo=FALSE,fig.align='center',out.width = "70%",out.width = "70%"}
 knitr::include_graphics('images/ZotFile02.png')
 ```
 ---
@@ -426,7 +426,7 @@ Duas abas são importantes para nós
 ---
 class: animated, fadeIn, middle
 
-```{r fig023 ,echo=FALSE,fig.align='center'}
+```{r fig023 ,echo=FALSE,fig.align='center',out.width = "70%",out.width = "70%"}
 knitr::include_graphics('images/ZotFile03.png')
 ```
 
